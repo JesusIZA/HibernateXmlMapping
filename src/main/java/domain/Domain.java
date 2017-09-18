@@ -47,5 +47,4 @@ public class Domain {
 		session.getTransaction().commit();
 		HibernateUtil.shutdown();
 	}
-
 }
